@@ -1,0 +1,11 @@
+id,name,address,email,conatct_no,student_count,establishment_date,dept_count,prof_count
+11,Greenfield College,123 Main St,greenfield@college.edu,1234567890,1200,2001-08-15,8,75
+2,Riverside Institute,456 River Rd,riverside@institute.edu,2345678901,950,1998-06-10,6,60
+3,Hilltop University,789 Hilltop Ave,hilltop@university.edu,3456789012,2000,1985-09-20,12,110
+4,Lakeside Academy,321 Lake Dr,lakeside@academy.edu,4567890123,800,2005-03-12,5,40
+5,Sunrise College,654 Sunrise Blvd,sunrise@college.edu,5678901234,1500,1992-11-05,10,90
+6,Maple Leaf College,987 Maple St,mapleleaf@college.edu,6789012345,1100,2000-01-25,7,55
+7,City Central College,159 City Center,citycentral@college.edu,7890123456,1800,1978-07-18,15,130
+8,Westside Institute,753 Westside Rd,westside@institute.edu,8901234567,950,2010-04-22,6,50
+9,Northview University,852 Northview Ave,northview@university.edu,9012345678,2100,1980-12-30,14,120
+10,Eastend Academy,951 Eastend Dr,eastend@academy.edu,1230984567,700,2015-09-01,4,35

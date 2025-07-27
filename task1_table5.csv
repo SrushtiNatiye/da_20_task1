@@ -1,0 +1,11 @@
+stud_id,firstname,lastname,gender,dob,email,conatct_no,enrollment_date
+1,John,Doe,M,2002-05-14,john.doe@email.com,9876543210,2020-08-01
+2,Jane,Smith,F,2001-11-23,jane.smith@email.com,9876543211,2019-07-15
+3,Michael,Brown,M,2003-02-10,michael.brown@email.com,9876543212,2021-09-10
+4,Emily,Davis,F,2002-07-30,emily.davis@email.com,9876543213,2020-08-01
+5,David,Wilson,M,2001-03-18,david.wilson@email.com,9876543214,2019-07-15
+6,Sophia,Moore,F,2003-12-05,sophia.moore@email.com,9876543215,2021-09-10
+7,Chris,Taylor,M,2002-09-22,chris.taylor@email.com,9876543216,2020-08-01
+8,Olivia,Anderson,F,2001-06-11,olivia.anderson@email.com,9876543217,2019-07-15
+9,Daniel,Thomas,M,2003-04-27,daniel.thomas@email.com,9876543218,2021-09-10
+10,Ava,Jackson,F,2002-01-19,ava.jackson@email.com,9876543219,2020-08-01
